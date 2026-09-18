@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="330" viewBox="0 0 1280 330" role="img" aria-labelledby="title desc">
+  <title id="title">DDXYY189 Cyberpunk Developer Profile</title>
+  <desc id="desc">A neon cyan and purple terminal style banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050711"/>
+      <stop offset="0.55" stop-color="#10112b"/>
+      <stop offset="1" stop-color="#210d35"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5d4"/>
+      <stop offset="1" stop-color="#b026ff"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="45" height="30" patternUnits="userSpaceOnUse"><path d="M45 0H0V30" fill="none" stroke="#49f2e2" stroke-opacity=".12"/></pattern>
+  </defs>
+  <rect width="1280" height="330" fill="url(#bg)"/>
+  <rect width="1280" height="330" fill="url(#grid)"/>
+  <path d="M0 258C160 205 285 309 443 248S712 203 857 254s277 16 423-43" fill="none" stroke="#a855f7" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M0 266C174 213 287 316 448 257s265-52 405 4 277 16 427-40" fill="none" stroke="#00f5d4" stroke-opacity=".95" stroke-width="2" filter="url(#glow)"/>
+  <g fill="#00f5d4" filter="url(#glow)"><circle cx="101" cy="71" r="3"/><circle cx="1139" cy="111" r="4"/><circle cx="1081" cy="51" r="2"/><circle cx="1205" cy="216" r="3"/></g>
+  <g font-family="monospace" fill="#8f9ab6" font-size="13"><text x="55" y="56">// PROFILE_INITIALIZED</text><text x="55" y="292">JAVA_BACKEND · MICROSERVICES · BUILDING_IN_PUBLIC</text></g>
+  <text x="55" y="155" font-family="monospace" font-weight="700" font-size="66" fill="#e9f9ff">DDXYY189</text>
+  <rect x="58" y="177" width="472" height="4" rx="2" fill="url(#neon)" filter="url(#glow)"/>
+  <text x="58" y="220" font-family="monospace" font-size="23" fill="#00f5d4">&gt; code · learn · evolve_</text>
+  <g transform="translate(913 65)" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"><path d="M0 55h42V20h42v35h42V0h42v55h42v35h42v-35h42"/><circle cx="0" cy="55" r="8" fill="#00f5d4"/><circle cx="294" cy="55" r="8" fill="#b026ff"/></g>
+</svg>
