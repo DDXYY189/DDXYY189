@@ -53,12 +53,7 @@
 ## <img src="https://img.shields.io/badge/04-GITHUB_SIGNAL-A855F7?style=flat-square&labelColor=090B18" alt="04 GitHub signal" />
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DDXYY189&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C8D1E6&icon_color=A855F7&ring_color=00F5D4" alt="DDXYY189 GitHub statistics" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=DDXYY189&theme=transparent&hide_border=true&ring=00F5D4&fire=A855F7&currStreakLabel=00F5D4&sideLabels=C8D1E6&dates=7A86A8" alt="DDXYY189 contribution streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDXYY189&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=C8D1E6" alt="Most used languages" />
 </div>
 
 ## <img src="https://img.shields.io/badge/05-CONTRIBUTION_SNAKE-00F5D4?style=flat-square&labelColor=090B18" alt="05 Contribution snake" />
